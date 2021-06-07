@@ -1,6 +1,6 @@
-package com.Consumer.config;
+package com.consumer.config;
 
-import com.Consumer.client.Client;
+import com.consumer.client.Client;
 import org.apache.kafka.common.serialization.StringDeserializer;
 import org.springframework.boot.autoconfigure.kafka.KafkaProperties;
 import org.springframework.context.annotation.Bean;

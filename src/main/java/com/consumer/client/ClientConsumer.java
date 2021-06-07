@@ -1,4 +1,4 @@
-package com.Consumer.client;
+package com.consumer.client;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.Consumer.client;
+package com.consumer.client;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Value;
